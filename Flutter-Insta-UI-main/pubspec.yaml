@@ -1,0 +1,19 @@
+name: flutter_instagram_clone
+description: Instagram UI Clone (UI Only)
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.9
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
