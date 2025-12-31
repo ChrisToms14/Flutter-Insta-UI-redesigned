@@ -19,8 +19,5 @@ This project focuses purely on **UI/UX** without backend or authentication.
 - Flutter
 - Dart
 
----
-## Screenshot
-<img width="1919" height="1026" alt="Screenshot 2025-12-31 181418" src="https://github.com/user-attachments/assets/ddb811ce-e089-45c5-be55-29fbeec3f7c3" />
 
 
